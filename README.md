@@ -13,5 +13,6 @@ The Construct is what your tools would look like if they were built for you — 
 * Quarkus
 * Stalwart Mail - Open Source edition
 * Mattermost
+* Apache Kafka (event bus)
 
 All available for on-prem or cloud infrastructure via K8s.
