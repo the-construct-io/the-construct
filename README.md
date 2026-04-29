@@ -165,7 +165,7 @@ All contributors are expected to follow the [Code of Conduct](CODE_OF_CONDUCT.md
 
 ## Maintainers
 
-The Construct is built and maintained by the team at **[Your Company Name]**.
+The Construct is built and maintained by the team at **Fresh Pass Inc.**.
 
 See [MAINTAINERS.md](MAINTAINERS.md) for the current list of maintainers and
 their areas of responsibility.
